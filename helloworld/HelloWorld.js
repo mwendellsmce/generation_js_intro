@@ -9,3 +9,4 @@ let num2 = leia.questionInt("Digite o segundo valor: ")
 let soma = num1 + num2
 //console.log("A soma desses valores é:", soma)
 console.log(`A soma de ${num1} + ${num2} = ${soma}`)
+
